@@ -1,2 +1,3 @@
-# dsc-ent-deloitte-paired-programming
-A central repository for Paired Programming exercises.
+# ⚯ Pair Programming Exercises
+
+A central repository for Pair Programming exercises.
